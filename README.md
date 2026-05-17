@@ -47,6 +47,7 @@
 | **Mini NAS** | 无配置网络文件共享 | Flask |
 | **Service Panel** | 内网服务管理 + AI 助手 | Flask, psutil |
 | **AI 续写助手** | 本地训练的中文续写模型 | PyTorch |
+| ...... | ...... | ...... |
 
 ---
 
